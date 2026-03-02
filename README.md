@@ -50,13 +50,6 @@ Lightweight Go client for automatic DuckDNS updates, batch domain refresh, and e
 ### [Tanto](https://github.com/L-Rocket/Tanto)
 Global productivity tool for Windows developers (AutoHotkey v2), bringing Vim-style navigation and one-shot editing actions system-wide.
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=L-Rocket&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Rocket&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ## Links
 
 - Portfolio: https://l-rocket.github.io/
