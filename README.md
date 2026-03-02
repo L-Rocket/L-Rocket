@@ -53,5 +53,5 @@ Global productivity tool for Windows developers (AutoHotkey v2), bringing Vim-st
 ## Links
 
 - Portfolio: https://l-rocket.github.io/
-- LinkedIn: https://linkedin.com/in/weihao
+- LinkedIn: https://www.linkedin.com/in/weihao-li-4569043a7/
 - Email: weihao.li@duke.edu
