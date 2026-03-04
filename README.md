@@ -36,25 +36,19 @@
 ## Featured Projects
 
 ### [EchoCenter](https://github.com/L-Rocket/EchoCenter)
-Modular multi-agent management hub with real-time WebSocket messaging, a Butler coordinator, React dashboard, and persistent chat history. Recent update adds backend unit tests (auth/config/repository), tighter SQLite unique-constraint handling, and bilingual contribution guides.
+Modular multi-agent management hub with real-time WebSocket messaging, a Butler coordinator, React dashboard, and persistent chat history, with backend quality strengthened by unit-tested auth/config/repository modules and robust SQLite unique-constraint handling.
 
 ### [nanoCache](https://github.com/L-Rocket/nanoCache)
-Sharded in-memory key-value store implemented in both C++17 and Go to compare concurrency models, locking strategies, and performance tradeoffs. Latest benchmark refresh (2026-03-04) shows C++ leading by 2.62x-5.35x across key scenarios.
+Sharded in-memory key-value store implemented in both C++17 and Go to compare concurrency models, locking strategies, and performance tradeoffs, with aligned cross-language benchmarks, CI smoke checks, and published throughput baselines.
 
 ### [BlockVector](https://github.com/L-Rocket/BlockVector)
-Header-only C++17 container with chunked storage for pointer stability and zero-copy growth where `std::vector` reallocation is costly. README now includes local benchmark data and pointer-stability comparison vs `std::vector`.
+Header-only C++17 container with chunked storage for pointer stability and zero-copy growth where `std::vector` reallocation is costly, backed by documented local performance and pointer-stability comparisons against `std::vector`.
 
 ### [duck-ddns](https://github.com/L-Rocket/duck-ddns)
 Lightweight Go client for automatic DuckDNS updates, batch domain refresh, and easy Linux deployment with service/log rotation support.
 
 ### [Tanto](https://github.com/L-Rocket/Tanto)
 Global productivity tool for Windows developers (AutoHotkey v2), bringing Vim-style navigation and one-shot editing actions system-wide.
-
-## Recent Updates (Mar 2026)
-
-- **EchoCenter**: Added backend unit tests for auth/config/repository modules and hardened unique-constraint detection logic in SQLite repository handling.
-- **nanoCache**: Added CI workflow for Go/C++ test + benchmark smoke checks, aligned C++/Go benchmark workload, and published refreshed baseline ops/s results.
-- **BlockVector**: Added local performance comparison section covering end-to-end operations, heavy-object append behavior, and pointer stability.
 
 ## Links
 
