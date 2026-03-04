@@ -36,13 +36,13 @@
 ## Featured Projects
 
 ### [EchoCenter](https://github.com/L-Rocket/EchoCenter)
-Modular multi-agent management hub with real-time WebSocket messaging, a Butler coordinator, React dashboard, and persistent chat history.
+Modular multi-agent management hub with real-time WebSocket messaging, a Butler coordinator, React dashboard, and persistent chat history, with backend quality strengthened by unit-tested auth/config/repository modules and robust SQLite unique-constraint handling.
 
 ### [nanoCache](https://github.com/L-Rocket/nanoCache)
-Sharded in-memory key-value store implemented in both C++17 and Go to compare concurrency models, locking strategies, and performance tradeoffs.
+Sharded in-memory key-value store implemented in both C++17 and Go to compare concurrency models, locking strategies, and performance tradeoffs, with aligned cross-language benchmarks, CI smoke checks, and published throughput baselines.
 
 ### [BlockVector](https://github.com/L-Rocket/BlockVector)
-Header-only C++17 container with chunked storage for pointer stability and zero-copy growth where `std::vector` reallocation is costly.
+Header-only C++17 container with chunked storage for pointer stability and zero-copy growth where `std::vector` reallocation is costly, backed by documented local performance and pointer-stability comparisons against `std::vector`.
 
 ### [duck-ddns](https://github.com/L-Rocket/duck-ddns)
 Lightweight Go client for automatic DuckDNS updates, batch domain refresh, and easy Linux deployment with service/log rotation support.
