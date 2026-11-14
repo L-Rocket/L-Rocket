@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Weihao Li (L-Rocket)</h1>
+<h1 align="center">Hi, I'm Leo(Weihao) </h1>
 <p align="center">
   CS Student @ Duke ECE · Building systems, tooling, and agent platforms
 </p>
