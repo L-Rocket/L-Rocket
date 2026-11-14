@@ -36,6 +36,9 @@
 
 ## Featured Projects
 
+### [PolyAgent](https://github.com/L-Rocket/PolyAgent)
+An agent platform for reusable agents, streamed chat, durable sessions, and isolated tool execution. Explore the [architecture and component repositories](https://github.com/L-Rocket/PolyAgent#architecture), then try the [web console](https://managed-agents.colab.duke.edu/) or the [developer guide](https://duke-ece.github.io/managed-agents-docs/developers/).
+
 ### [EchoCenter](https://github.com/L-Rocket/EchoCenter)
 Modular multi-agent management hub with real-time WebSocket messaging, a Butler coordinator, React dashboard, and persistent chat history, with backend quality strengthened by unit-tested auth/config/repository modules and robust SQLite unique-constraint handling.
 
