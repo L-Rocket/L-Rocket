@@ -36,7 +36,7 @@
 
 ## Featured Projects
 
-### [PolyAgent](https://github.com/L-Rocket/PolyAgent)
+### <img src="https://managed-agents.colab.duke.edu/favicon.svg" alt="PolyAgent icon" width="24" height="24" /> [PolyAgent](https://github.com/L-Rocket/PolyAgent)
 An agent platform for reusable agents, streamed chat, durable sessions, and isolated tool execution. Explore the [architecture and component repositories](https://github.com/L-Rocket/PolyAgent#architecture), try the [web console](https://managed-agents.colab.duke.edu/), or read the [documentation](https://duke-ece.github.io/managed-agents-docs/).
 
 ### [EchoCenter](https://github.com/L-Rocket/EchoCenter)
